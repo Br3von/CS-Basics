@@ -1,0 +1,13 @@
+C:\Users\brevo\OneDrive\Desktop\C# Program\bin\Debug\netcoreapp3.1\C# Program.exe
+C:\Users\brevo\OneDrive\Desktop\C# Program\bin\Debug\netcoreapp3.1\C# Program.deps.json
+C:\Users\brevo\OneDrive\Desktop\C# Program\bin\Debug\netcoreapp3.1\C# Program.runtimeconfig.json
+C:\Users\brevo\OneDrive\Desktop\C# Program\bin\Debug\netcoreapp3.1\C# Program.runtimeconfig.dev.json
+C:\Users\brevo\OneDrive\Desktop\C# Program\bin\Debug\netcoreapp3.1\C# Program.dll
+C:\Users\brevo\OneDrive\Desktop\C# Program\bin\Debug\netcoreapp3.1\C# Program.pdb
+C:\Users\brevo\OneDrive\Desktop\C# Program\obj\Debug\netcoreapp3.1\C# Program.csprojAssemblyReference.cache
+C:\Users\brevo\OneDrive\Desktop\C# Program\obj\Debug\netcoreapp3.1\C# Program.AssemblyInfoInputs.cache
+C:\Users\brevo\OneDrive\Desktop\C# Program\obj\Debug\netcoreapp3.1\C# Program.AssemblyInfo.cs
+C:\Users\brevo\OneDrive\Desktop\C# Program\obj\Debug\netcoreapp3.1\C# Program.csproj.CoreCompileInputs.cache
+C:\Users\brevo\OneDrive\Desktop\C# Program\obj\Debug\netcoreapp3.1\C# Program.dll
+C:\Users\brevo\OneDrive\Desktop\C# Program\obj\Debug\netcoreapp3.1\C# Program.pdb
+C:\Users\brevo\OneDrive\Desktop\C# Program\obj\Debug\netcoreapp3.1\C# Program.genruntimeconfig.cache
